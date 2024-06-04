@@ -1,1 +1,1 @@
-# kvalitativ-opf-lgning
+# kvalitativ-opfoelgning
