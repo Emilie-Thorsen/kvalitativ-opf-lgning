@@ -23,7 +23,7 @@ dpo@au.dk
 Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser
 
 ## Formålet med projektet og behandlingen af dine personoplysninger
-Undersøgelsen handler om, hvordan digital terapi påvirker relationen mellem behandlere og patienter. Vi undersøger, hvordan patienter oplever at bruge selvhjælpsbaseret terapi. Vi undersøger også, hvordan behandlere forstår og oplever deres faglighed i digital terapi
+Undersøgelsen er en kvalitativ opfølgning på spørgeskemaundersøgelsen om patienters erfaringer med og holdning til digitale værktøjer i psykiatrien.
 
 ## Hvilke personoplysninger behandles i projektet?
 I projektet behandles følgende oplysninger om dig som deltager:
@@ -34,6 +34,8 @@ I projektet behandles følgende oplysninger om dig som deltager:
 + Beskæftigelsesoplysninger
 + Alder
 + Køn
++ Telefonnummer
++ Adresse
 + Øvrige personfølsomme oplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personfølsomme oplysninger.
 
 ## Anvendelsen af automatiske behandlinger (profilering)
@@ -42,7 +44,7 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 + Der anvendes *ikke* automatisk behandling af personoplysninger
 
 ## Hvor længe opbevares dine øvrige personoplysninger?
-Optagelserne og transskriberingerne fra interviews samt noter fra observationerne vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2026, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger og feltnoter bliver sløret inden de opbevares.
+Optagelserne og transskriberingerne fra interviews vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2025, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger bliver sløret inden de opbevares.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
@@ -51,9 +53,7 @@ Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efte
 
 ## Personoplysninger er indhentet fra
 
-+ Fra dig og andre* 
-
-*Andre refererer her til [Center for Digital Psykatri][auCFDP] 
++ Fra dig
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
