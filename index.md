@@ -35,7 +35,8 @@ I projektet behandles følgende oplysninger om dig som deltager:
 + Køn
 + Telefonnummer
 + Adresse
-+ Øvrige personfølsomme oplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personfølsomme oplysninger.
++ Helbredsoplysninger
++ Øvrige personoplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personoplysninger.
 
 ## Anvendelsen af automatiske behandlinger (profilering)
 Profilering er en automatisk behandling af dine personoplysninger, fx behandlinger, der er bestemt af en algoritme. Her kan du se, om der indgår automatiske behandlinger af dine personoplysninger.
@@ -47,8 +48,7 @@ Optagelserne og transskriberingerne fra interviews vil blive sikkert gemt på Aa
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
-Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
-+ [Center for Digital Psykiatri][auCFDP], Heden 11, 2. og 3. sal, 5000 Odense C.
+Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
 
 ## Personoplysninger er indhentet fra
 
@@ -79,4 +79,3 @@ Carl Jacobsens Vej 35
 2500 Valby
 
 [aujr]: https://pure.au.dk/portal/da/persons/emdy%40ps.au.dk
-[auCFDP]: https://psykiatrienisyddanmark.dk/forskning/tilladelser-og-anmeldelser-ved-forskningsprojekter
