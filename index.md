@@ -22,7 +22,7 @@ dpo@au.dk
 Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser
 
 ## Formålet med projektet og behandlingen af dine personoplysninger
-Formålet med projektet er at undersøge erfaringer og holdninger til digitale værktøjer i psykiatrien blandt patienter, der har prøvet digitale værjtøjer. Dertil ønsker vi også at undersøge oplevelser blandt patienter, der ikke har anvendt digitale værktøjer, herunder hvilke motivationsfaktorer og barrierer, der er for at bruge digitale værktøjer. Undersøgelsen er en kvalitativ opfølgning på en landsdækkende spørgeskemaundersøgelse, der kortlægger patienters erfaringer med og holdning til digitale værktøjer i psykiatrien. Du kan læse rapporten her: https://ps.au.dk/fileadmin/Statskundskab/Dokumenter/Perspektiver_paa_digital_psykiatri.pdf
+Formålet med projektet er at undersøge erfaringer og holdninger til digitale værktøjer i psykiatrien blandt patienter, der har prøvet digitale værktøjer. Dertil ønsker vi også at undersøge oplevelser blandt patienter, der ikke har anvendt digitale værktøjer, herunder hvilke motivationsfaktorer og barrierer, der er for at bruge digitale værktøjer. Undersøgelsen er en kvalitativ opfølgning på en landsdækkende spørgeskemaundersøgelse, der kortlægger patienters erfaringer med og holdning til digitale værktøjer i psykiatrien. Du kan læse rapporten her: https://ps.au.dk/fileadmin/Statskundskab/Dokumenter/Perspektiver_paa_digital_psykiatri.pdf
 
 ## Hvilke personoplysninger behandles i projektet?
 I projektet behandles følgende oplysninger om dig som deltager:
