@@ -22,7 +22,7 @@ dpo@au.dk
 Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser
 
 ## Formålet med projektet og behandlingen af dine personoplysninger
-Undersøgelsen er en kvalitativ opfølgning på spørgeskemaundersøgelsen om patienters erfaringer med og holdning til digitale værktøjer i psykiatrien.
+Formålet med projektet er at undersøge erfaringer og holdninger til digitale værktøjer i psykiatrien blandt patienter, der har prøvet digitale værjtøjer. Dertil ønsker vi også at undersøge oplevelser blandt patienter, der ikke har anvendt digitale værktøjer, herunder hvilke motivationsfaktorer og barrierer, der er for at bruge digitale værktøjer. Undersøgelsen er en kvalitativ opfølgning på en landsdækkende spørgeskemaundersøgelse, der kortlægger patienters erfaringer med og holdning til digitale værktøjer i psykiatrien. Du kan læse rapporten her: https://ps.au.dk/fileadmin/Statskundskab/Dokumenter/Perspektiver_paa_digital_psykiatri.pdf
 
 ## Hvilke personoplysninger behandles i projektet?
 I projektet behandles følgende oplysninger om dig som deltager:
@@ -44,10 +44,9 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 + Der anvendes *ikke* automatisk behandling af personoplysninger
 
 ## Hvor længe opbevares dine øvrige personoplysninger?
-Optagelserne og transskriberingerne fra interviews vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2025, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger bliver sløret inden de opbevares.
+Optagelserne og transskriberingerne fra interviews vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2026, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger bliver sløret inden de opbevares.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
-
 Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
 
 ## Personoplysninger er indhentet fra
