@@ -49,9 +49,14 @@ Optagelserne og transskriberingerne fra interviews vil blive sikkert gemt på Aa
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregivelse af navn og cpr. nr. til skat efter reglerne i GDPR art. 11, stk. 1 og Skatteligningslovens § 1.
 
+Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
++ [Rambøll Management Consulting A/S][auRMC], Hannemanns Allé 53 2300 København S, CVR-nummer 60997918
+
 ## Personoplysninger er indhentet fra
 
-+ Fra dig
++ Fra dig og andre* 
+
+*Andre refererer her til [Rambøll Management Consulting A/S][auRMC].
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
@@ -79,4 +84,5 @@ Carl Jacobsens Vej 35
 
 [aujr]: https://pure.au.dk/portal/da/persons/emdy%40ps.au.dk
 [aurapport]: https://ps.au.dk/fileadmin/Statskundskab/Dokumenter/Perspektiver_paa_digital_psykiatri.pdf
+[auRMC]: https://rambollxact.dk/datahaandtering
 
