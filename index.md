@@ -65,6 +65,8 @@ Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine per
 
 + Artikel 6, stk. 1, litra e og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle dine følsomme personoplysninger og eventuelt oplysninger om strafbare forhold til videnskabelige forskningsformål uden dit samtykke.
 
++ Databeskyttelseslovens § 11, stk. 1, der giver Aarhus Universitet ret til at behandle dit CPR-nummer med henblik på entydig identifikation. 
+
 ## Dine rettigheder efter databeskyttelsesforordningen
 Du har følgende rettigheder, hvis Aarhus Universitet behandler dine personoplysninger som et led i et forskningsprojekt, der er i samfundets interesse. 
 
