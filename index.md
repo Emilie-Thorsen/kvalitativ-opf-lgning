@@ -51,12 +51,11 @@ Ved modtagelse af gavekort for deltagelse i projektet, så vil der ske videregiv
 
 Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
 + [Rambøll Management Consulting A/S][auRMC], Hannemanns Allé 53 2300 København S, CVR-nummer 60997918
++ [Whisper Transsciption app, Syddansk Universitet][auSDU], Campusvej 55, 5230 Odense M, CVR-nummer 29283958
 
 ## Personoplysninger er indhentet fra
 
-+ Fra dig og andre* 
-
-*Andre refererer her til [Rambøll Management Consulting A/S][auRMC].
++ Fra dig 
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
@@ -85,4 +84,6 @@ Carl Jacobsens Vej 35
 [aujr]: https://pure.au.dk/portal/da/persons/emdy%40ps.au.dk
 [aurapport]: https://ps.au.dk/fileadmin/Statskundskab/Dokumenter/Perspektiver_paa_digital_psykiatri.pdf
 [auRMC]: https://rambollxact.dk/datahaandtering
+[auSDU]: https://escience.sdu.dk/index.php/ucloud/
+
 
