@@ -12,11 +12,11 @@ Dataansvarlig for behandlingen af personoplysninger i forskningsprojektet er:
 + 8000 Aarhus C
 + CVR-nr.: 31119103
 
-Forskningsprojektet er ledet af PhD studerende [Emilie Kristrine Dyrlev Thorsen][aujr] som kan kontaktes på emdy@ps.au.dk
+Forskningsprojektet er ledet af PhD studerende [Emilie Kristrine Dyrlev Thorsen][aujr] som kan kontaktes på mail: emdy@ps.au.dk
 
 ## Databeskyttelsesrådgiver ved Aarhus Universitet
 Databeskyttelsesrådgiver/DPO
-dpo@au.dk 
+Mail: dpo@au.dk 
 
 ## Forskningsprojektets titel
 Udvidelse af det terapeutiske rum: En undersøgelse af hvordan digitale værktøjer omformer psykiatrisk behandlingspraksisser
